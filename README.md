@@ -5,7 +5,7 @@
 | K-헬스장 WEB | Node.js 기반 교내 헬스장 홍보 WEB | 푸른드래곤즈 | - | - |
 | 과제 캘린더 | Ecampus 과제 크롤링 및 구글 API 활용 자동화 | 김재현 외 3명 | - | - |
 | 트래챗 | 판례문 기반 교통사고 형량 예측 AI 챗봇 서비스 | 트래블러 | [2023 AWS, KT AICE 빅데이터•AI경진대회] - KT부문 TOP3 | [WEB LINK](https://www.instagram.com/p/CzdMbSzxgBM/?utm_source=ig_web_copy_link&img_index=3) |
-| 토마토마켓 | 디지털 격차 완화 농수산물 거래,  WEB & Android App | 소웨얼간이들 | - | - |
+| 토마토마켓 | 디지털 격차 완화 농수산물 거래,  WEB & Android App | 소웨얼간이들 | - | [GitHub-Repo(WEB)](https://github.com/khyun-0123/nongga-mart-project) |
 | 학식 알림 챗봇 | 학식 Image Crawling & OCR을 통한 챗봇 알림 서비스 | CodeCure | - | - |
 
 <br>
