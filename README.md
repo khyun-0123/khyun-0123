@@ -33,6 +33,3 @@
 ## Card
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhkim8669)](https://solved.ac/jhkim8669)
 &nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyun-0123&layout=compact&cache_seconds=21600&v=1" />
-</a>
