@@ -1,7 +1,6 @@
 ## Project
 | Service | Description | Group | Award | Link |
 |:---:|:---:|:---:|:---:|:---:|
-| CodeCure WEB | React, Node.js 기반 동아리 홍보 WEB | CodeCure | - | - |
 | K-헬스장 WEB | Node.js 기반 교내 헬스장 홍보 WEB | 푸른드래곤즈 | - | [GitHub-Repo](https://github.com/Blue-Dragonsss/K-Fitness) |
 | 과제 캘린더 | Ecampus 과제 크롤링 및 구글 API 활용 자동화 | 김재현 외 3명 | - | - |
 | 트래챗 | 판례문 기반 교통사고 형량 예측 AI 챗봇 서비스 | 트래블러 | [2023 AWS, KT AICE 빅데이터•AI경진대회] - KT부문 TOP3 | [Instagram](https://www.instagram.com/p/CzdMbSzxgBM/?utm_source=ig_web_copy_link&img_index=3) |
