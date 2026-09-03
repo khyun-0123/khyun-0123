@@ -1,34 +1,70 @@
-## Project
-| Service | Description | Group | Award | Link |
-|:---:|:---:|:---:|:---:|:---:|
-| K-헬스장 WEB | Node.js 기반 교내 헬스장 홍보 WEB | 푸른드래곤즈 | - | [GitHub-Repo](https://github.com/Blue-Dragonsss/K-Fitness) |
-| 과제 캘린더 | Ecampus 과제 크롤링 및 구글 API 활용 자동화 | 김재현 외 3명 | - | [GitHub-Repo](https://github.com/khyun-0123/sangmyung_todo_calender) |
-| 트래챗 | 판례문 기반 교통사고 형량 예측 AI 챗봇 서비스 | 트래블러 | [2023 AWS, KT AICE 빅데이터•AI경진대회] - KT부문 TOP3 | [Instagram](https://www.instagram.com/p/CzdMbSzxgBM/?utm_source=ig_web_copy_link&img_index=3) |
-| 토마토마켓 | 디지털 격차 완화 농수산물 거래,  WEB & Android App | 소웨얼간이들 | - | [GitHub-Repo](https://github.com/khyun-0123/nongga-mart-project) |
-| 학식 알림 챗봇 | 학식 Image Crawling & OCR을 통한 챗봇 알림 서비스 | CodeCure | - | [GitHub-Repo](https://github.com/khyun-0123/haksik_alarm) |
-| 데이트원 | 커플 데이트 정산을 위한 IOS 어플 | 개인 개발 | - | [TestFlight](https://testflight.apple.com/join/DSgG6pjs) |
-| Science Arc (사이언스 아크) | 초등학생을 대상으로 한 스토리 기반 VR 과학 교육 콘텐츠 | 왜안되지연구소 | - | 대회 진행중이므로 대외비 |
+# Jae Hyun Kim
 
-<br>
+**Computer Science Student @ Sangmyung University**
 
-## Experience
-### - 2023
-- **LikeLion at Sangmyung University 11th (2023.03 ~ 2023.12)**
-- **CodeCure at Sangmyung University (2023.03 ~ )**
-- **Sangmyung University, Department of Software (2023.03 ~ )**
+Interested in **Software · AI · XR · Automation**
 
-<br>
+I enjoy turning ideas into working projects and exploring how technology can solve real-world problems.
 
-## Interest
+---
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="80" height="25" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="65" height="25" />
+## 💻 Selected Development Projects
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="90" height="25" > <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" width="100" height="25" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" width="90" height="25" > 
+| Project | Period | Description | Link |
+| --- | --- | --- | --- |
+| **Science Ark VR** | 2026 | 초등학생을 위한 스토리 기반 VR 과학 교육 콘텐츠 | Private |
+| **TraChat** | 2023 | 판례 데이터를 활용한 교통사고 형량 예측 AI 챗봇 | [View](https://www.instagram.com/p/CzdMbSzxgBM/) |
+| **Assignment Calendar** | 2023 | LMS 과제 정보를 수집해 Google Calendar와 자동 연동 | [GitHub](https://github.com/khyun-0123/sangmyung_todo_calender) |
+| **DateOne** | 2025 | 커플의 데이트 비용 정산을 위해 개발한 개인 iOS 서비스 | Private |
 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" width="100" height="25" />
+---
 
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" width="70" height="25" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="85" height="25" />
+## 🌱 Selected Projects & Activities
 
+| Project / Activity | Period | Description |
+| --- | --- | --- |
+| **Community Living Lab** | 2026 | 지역사회 흡연환경 문제를 조사하고 현장조사·설문·행정기관 협의·Mock-up 설계까지 진행한 문제해결 프로젝트 |
+| **Startup Competition Project** | - | 실제 문제를 발굴하고 해결 아이디어와 구현 가능성을 구체화한 창업 프로젝트 |
+
+---
+
+## 🏆 Awards
+
+- **최우수상** — 지역사회와 리빙랩 프로젝트 `2026`
+- **우수상** — 제1사단 창업경진대회
+- **KT 부문 TOP 3** — 2023 AWS · KT AICE 빅데이터·AI 경진대회 `2023`
+
+---
+
+## 🎓 Experience
+
+**Sangmyung University — Department of Software**  
+`2023.03 — Present`
+
+**LikeLion at Sangmyung University 11th**  
+`2023.03 — 2023.12`
+
+**CodeCure at Sangmyung University**  
+`2023.03 — Present`
+
+---
+
+## 🛠 Skills
+
+**Languages**  
+`Python` `C#` `Swift` `JavaScript`
+
+**Frameworks & Tools**  
+`Unity` `Django` `Git` `GitHub`
+
+**Currently Exploring**  
+`AI` `XR` `Automation`
+
+---
+
+## Contact
+
+[GitHub](https://github.com/khyun-0123)
 <br>
 
 ## Card
