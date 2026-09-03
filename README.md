@@ -62,6 +62,22 @@ I enjoy turning ideas into working projects and exploring how technology can sol
 
 ---
 
+<details>
+<summary><b>Other Development Projects</b></summary>
+
+<br>
+
+| Project | Period | Description | Link |
+| --- | --- | --- | --- |
+| **Assignment Calendar** | 2023 | LMS 과제 정보를 수집해 Google Calendar와 자동 연동한 일정 관리 자동화 프로젝트 | [GitHub](https://github.com/khyun-0123/sangmyung_todo_calender) |
+| **Tomato Market** | 2023 | 디지털 격차 완화를 주제로 개발한 농수산물 거래 Web & Android App | [GitHub](https://github.com/khyun-0123/nongga-mart-project) |
+| **Campus Meal Chatbot** | 2023 | 이미지 크롤링과 OCR을 활용해 학식 정보를 제공하는 챗봇 서비스 | [GitHub](https://github.com/khyun-0123/haksik_alarm) |
+| **K-Fitness Web** | 2023 | 교내 헬스장 홍보 및 정보 제공을 위해 제작한 웹 서비스 | [GitHub](https://github.com/Blue-Dragonsss/K-Fitness) |
+
+</details>
+
+---
+
 ## Contact
 
 [GitHub](https://github.com/khyun-0123)
