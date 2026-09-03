@@ -32,10 +32,10 @@ Interested in **Software · AI · XR · Automation**
 
 ## 🌱 Selected Projects & Activities
 
-| Project / Activity | Period | Description |
+| Project / Activity | Period | Description | Link |
 | --- | --- | --- |
-| **Community Living Lab** | 2026 | 지역사회 흡연환경 문제를 조사하고 현장조사·설문·행정기관 협의·Mock-up 설계까지 진행한 문제해결 프로젝트 |
-| **Startup Competition Project** | - | 실제 문제를 발굴하고 해결 아이디어와 구현 가능성을 구체화한 창업 프로젝트 |
+| **안서동흡연환경개선프로젝트** | 2026 | 지역사회 흡연환경 문제를 조사하고 현장조사·설문·행정기관 협의·Mock-up 설계까지 진행한 문제해결 프로젝트 | [Details](link.link)] |
+| **산불지기** | 2025 | 실제 문제를 발굴하고 해결 아이디어와 구현 가능성을 구체화한 창업 프로젝트 | [Details](link.link) |
 
 ---
 
@@ -73,9 +73,6 @@ Interested in **Software · AI · XR · Automation**
 
 ---
 
-
-
----
 
 ## Contact
 
