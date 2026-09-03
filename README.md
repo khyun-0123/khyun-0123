@@ -4,8 +4,6 @@
 
 Interested in **Software · AI · XR · Automation**
 
-I enjoy turning ideas into working projects and exploring how technology can solve real-world problems.
-
 ---
 
 ## 💻 Selected Development Projects
@@ -52,7 +50,7 @@ I enjoy turning ideas into working projects and exploring how technology can sol
 ## 🛠 Skills
 
 **Languages**  
-`Python` `C#` `Swift` `JavaScript`
+`Python` `C++` `Swift` `JavaScript`
 
 **Frameworks & Tools**  
 `Unity` `Django` `Git` `GitHub`
