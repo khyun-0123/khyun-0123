@@ -11,8 +11,8 @@ Interested in **Software · AI · XR · Automation**
 | Project | Period | Description | Link |
 | --- | --- | --- | --- |
 | **Science Ark VR** | 2026 | 초등학생을 위한 스토리 기반 VR 과학 교육 콘텐츠 | Private |
-| **TraChat** | 2023 | 판례 데이터를 활용한 교통사고 형량 예측 AI 챗봇 | [View](https://www.instagram.com/p/CzdMbSzxgBM/) |
 | **DateOne** | 2025 | 커플의 데이트 비용 정산을 위해 개발한 개인 iOS 서비스 | Private |
+| **TraChat** | 2023 | 판례 데이터를 활용한 교통사고 형량 예측 AI 챗봇 | [View](https://www.instagram.com/p/CzdMbSzxgBM/) |
 
 <details>
 <summary><b>Other Development Projects</b></summary>
@@ -34,7 +34,7 @@ Interested in **Software · AI · XR · Automation**
 
 | Project / Activity | Period | Description | Link |
 | --- | --- | --- | --- |
-| **흡연환경 개선 프로젝트** | 2026 | 지역사회 흡연환경 문제를 조사하고 현장조사·설문·행정기관 협의·Mock-up 설계까지 진행한 문제해결 프로젝트 | [Details](link.link)] |
+| **흡연환경 개선 프로젝트** | 2026 | 지역사회 흡연환경 문제를 조사하고 현장조사·설문·행정기관 협의·Mock-up 설계까지 진행한 문제해결 프로젝트 | [Details](link.link) |
 | **산불지기** | 2025 | 실제 문제를 발굴하고 해결 아이디어와 구현 가능성을 구체화한 창업 프로젝트 | [Details](link.link) |
 
 ---
