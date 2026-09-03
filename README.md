@@ -34,7 +34,7 @@ Interested in **Software · AI · XR · Automation**
 
 | Project / Activity | Period | Description | Link |
 | --- | --- | --- | --- |
-| **안서동흡연환경개선프로젝트** | 2026 | 지역사회 흡연환경 문제를 조사하고 현장조사·설문·행정기관 협의·Mock-up 설계까지 진행한 문제해결 프로젝트 | [Details](link.link)] |
+| **흡연환경 개선 프로젝트** | 2026 | 지역사회 흡연환경 문제를 조사하고 현장조사·설문·행정기관 협의·Mock-up 설계까지 진행한 문제해결 프로젝트 | [Details](link.link)] |
 | **산불지기** | 2025 | 실제 문제를 발굴하고 해결 아이디어와 구현 가능성을 구체화한 창업 프로젝트 | [Details](link.link) |
 
 ---
