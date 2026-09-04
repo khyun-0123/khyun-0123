@@ -18,7 +18,11 @@
 - 시설 설치 가능 여부와 행정 절차를 확인하기 위해 **관련 부서 간 협의 요청**
 - 조사·행정기관 피드백을 반영하여 현실적인 설치 및 운영방안 구체화
 
-![접수내용1](./request1.png) ![접수내용2](./request2.png) ![접수내용3](./request3.png)
+<p align="center">
+  <img src="./request1.png" width="32%">
+  <img src="./request2.png" width="32%">
+  <img src="./request3.png" width="32%">
+</p>
 
 ### 💡 Approach
 
