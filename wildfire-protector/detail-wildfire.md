@@ -48,6 +48,11 @@
 - 감지 단말 이상 여부 점검
 - 소방서 등 관계기관 연계 가능
 
+<p align="left">
+  <img src="./page-03.png" width="32%">
+  <img src="./page-04.png" width="32%">
+</p>
+
 ---
 
 ## 🛠 Hardware
