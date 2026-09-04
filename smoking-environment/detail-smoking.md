@@ -10,6 +10,10 @@
 - 담배꽁초 무단투기로 인한 거리 환경 및 비흡연자 불편 문제 분석
 - 단순 시설 설치가 아닌 **실제 행정·운영 가능성을 고려한 해결방안** 필요
 
+<p align="center">
+  <img src="./trouble.png" width="32%">
+</p>
+
 ### 🛠 What I Did
 - 현장조사를 통해 흡연환경과 주요 문제 지점 분석
 - 설문조사를 진행하여 **흡연시설 설치 후보지 7곳 선정**
@@ -35,6 +39,12 @@
 - 설문조사를 기반으로 설치 후보지 **7곳 도출**
 - 국민신문고 및 관련 부서 협의를 통한 **행정적 실현 가능성 검토**
 - **충남리빙랩연구소 소장 명의 최우수상 수상**
+
+<p align="center">
+  <img src="./reason.png" width="32%">
+  <img src="./solution.png" width="32%">
+  <img src="./award-smoke.png" width="32%">
+</p>
 
 ### 📌 Key Experience
 `Living Lab` `Problem Solving` `User Research` `Survey` `Prototyping` `Public Communication` `Team Collaboration`
