@@ -41,10 +41,10 @@ Interested in **Software · AI · XR · Automation**
 
 ## 🏆 Awards
 
-- **최우수상** — **흡연환경 개선 프로젝트** · 지역사회와 리빙랩 `2026` · [Certificate](./awards/livinglab-award.jpg)
-- **우수상** — **산불지기** · 제1사단 창업경진대회 `2025` · [Certificate](./awards/1division-startup-award.jpg)
-- **KT 부문 TOP 3** — **TraChat** · AWS · KT AICE 빅데이터·AI 경진대회 `2023` · [Certificate](./awards/aice-kt-top3.jpg)
-
+- **최우수상** — 흡연환경 개선 프로젝트 · 지역사회와 리빙랩 `2026` · [Certificate](https://github.com/khyun-0123/khyun-0123/blob/main/smoking-environment/award-smoking)
+- **우수상** — 산불지기 · 제1사단 창업경진대회 `2025` · [Certificate](https://github.com/khyun-0123/khyun-0123/blob/main/wildfire-potector/award-wildfire)
+- **KT 부문 TOP 3** — TraChat · AWS · KT AICE 빅데이터·AI 경진대회 `2023` · [Certificate](https://github.com/khyun-0123/khyun-0123/blob/main/trachat/award-trachat)
+  
 ---
 
 ## 🎓 Experience
