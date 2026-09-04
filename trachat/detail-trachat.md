@@ -2,6 +2,8 @@
 
 > **판결문 데이터 기반의 교통사고 형량 예측 AI 챗봇**
 
+[🏫 Featured on Sangmyung University Instagram](https://www.instagram.com/p/CzdMbSzxgBM/)
+
 TraChat은 사용자가 자신의 교통사고 상황을 입력하면,
 판결문 데이터를 학습한 AI 모델을 통해 예상 형벌과 형량을 제공하는 챗봇 서비스입니다.
 
