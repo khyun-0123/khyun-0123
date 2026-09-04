@@ -42,7 +42,7 @@
 <p align="left">
   <img src="./reason.png" width="32%">
   <img src="./solution.png" width="32%">
-  <img src="./award-smoke.png" width="32%">
+  <img src="./award-smoke.png" width="16%">
 </p>
 
 ### 📌 Key Experience
