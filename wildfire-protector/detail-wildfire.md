@@ -221,6 +221,10 @@
 - 단계별 사업화 로드맵 수립
 - **1사단 창업경진대회 우수상 수상**
 
+<p align="left">
+  <img src="./award-wildfire.png" width="32%">
+</p>
+
 ---
 
 ## 📌 Key Experience
