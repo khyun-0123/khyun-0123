@@ -139,6 +139,10 @@ AI 모델의 예측 결과를 정해진 응답 형태로 사용자에게 제공�
 - 카카오 챗봇 기반 형량 예측 서비스 구현
 - **2023 AWS · KT AICE 빅데이터·AI 경진대회 KT 부문 TOP 3**
 
+<p align="left">
+  <img src="./award-trachat.png" width="32%">
+</p>
+
 ---
 
 ## 🛠 Tech Stack
