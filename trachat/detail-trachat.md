@@ -137,7 +137,7 @@ AI 모델의 예측 결과를 정해진 응답 형태로 사용자에게 제공�
 - 약 2.8만 건 규모의 학습 데이터 구성
 - KoBERT 기반 형벌·형량 예측 모델 개발
 - 카카오 챗봇 기반 형량 예측 서비스 구현
-- **2023 AWS · KT AICE 빅데이터·AI 경진대회 KT 부문 TOP 3**
+- **2023 AWS · KT AICE 빅데이터·AI 경진대회 KT 부문 TOP 3** 🏆
 - [학교 공식 Instagram 게시물](https://www.instagram.com/p/CzdMbSzxgBM/)
 
 <p align="left">
