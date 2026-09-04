@@ -12,7 +12,7 @@ Interested in **Software · AI · XR · Automation**
 | --- | --- | --- | --- |
 | **Science Ark VR** | 2026 | 초등학생을 위한 스토리 기반 VR 과학 교육 콘텐츠 | [View](link.link) |
 | **DateOne** | 2025 | 커플 데이트 비용 정산을 위한 개인 iOS 서비스 | [View](link.link) |
-| **TraChat** 🏆| 2023 | 판결문 데이터 기반의 교통사고 형량 예측 AI 챗봇 | [View](https://www.instagram.com/p/CzdMbSzxgBM/) |
+| **TraChat** 🏆| 2023 | 판결문 데이터 기반의 교통사고 형량 예측 AI 챗봇 | [Details](https://github.com/khyun-0123/khyun-0123/blob/main/trachat/detail-trachat.md) |
 
 <details>
 <summary><b>Other Development Projects</b></summary>
