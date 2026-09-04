@@ -42,7 +42,7 @@ Interested in **Software · AI · XR · Automation**
 ## 🏆 Awards
 
 - **최우수상** — 지역사회와 리빙랩 프로젝트 `2026`
-- **우수상** — 제1사단 창업경진대회
+- **우수상** — 제1사단 창업경진대회 `2025`
 - **KT 부문 TOP 3** — 2023 AWS · KT AICE 빅데이터·AI 경진대회 `2023`
 
 ---
@@ -56,7 +56,7 @@ Interested in **Software · AI · XR · Automation**
 `2023.03 — 2023.12`
 
 **CodeCure at Sangmyung University**  
-`2023.03 — Present`
+`2023.03 — 2023.12`
 
 ---
 
