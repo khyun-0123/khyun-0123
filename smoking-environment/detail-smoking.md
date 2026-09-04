@@ -10,7 +10,7 @@
 - 담배꽁초 무단투기로 인한 거리 환경 및 비흡연자 불편 문제 분석
 - 단순 시설 설치가 아닌 **실제 행정·운영 가능성을 고려한 해결방안** 필요
 
-<p align="center">
+<p align="left">
   <img src="./trouble.png" width="32%">
 </p>
 
@@ -22,8 +22,7 @@
 - 시설 설치 가능 여부와 행정 절차를 확인하기 위해 **관련 부서 간 협의 요청**
 - 조사·행정기관 피드백을 반영하여 현실적인 설치 및 운영방안 구체화
 
-<p align="center">
-  <img src="./request1.png" width="32%">
+<p align="left">
   <img src="./request2.png" width="32%">
   <img src="./request3.png" width="32%">
 </p>
@@ -40,7 +39,7 @@
 - 국민신문고 및 관련 부서 협의를 통한 **행정적 실현 가능성 검토**
 - **충남리빙랩연구소 소장 명의 최우수상 수상**
 
-<p align="center">
+<p align="left">
   <img src="./reason.png" width="32%">
   <img src="./solution.png" width="32%">
   <img src="./award-smoke.png" width="32%">
