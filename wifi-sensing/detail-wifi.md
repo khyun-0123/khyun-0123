@@ -78,7 +78,7 @@ ESP32-S3 + 공유기 + 노트북 + CSI Monitor가 함께 나온 실제 실험 �
 -->
 
 <p align="center">
-  <img src="./csi-environment.jpg" width="75%">
+  <img src="./csi-environment.png" width="75%">
 </p>
 
 ---
