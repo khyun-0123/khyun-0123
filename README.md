@@ -70,7 +70,7 @@ Interested in **Software · AI · XR · LLMs · Local AI · Automation**
 `Unity` `Django` `Flask` `Git` `GitHub`
 
 **Currently Exploring**  
-`AI` `XR` `LLMs` `Local AI` `Automation` · [Velog Notes](VELLOG_URL)
+`AI` `XR` `LLMs` `Local AI` `Automation` · [Velog Notes]([VELLOG_URL](https://velog.io/@khyun-0123/series))
 
 ---
 
