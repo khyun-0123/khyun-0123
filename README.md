@@ -1,6 +1,6 @@
 # Jae Hyun Kim
 
-**Computer Science Student @ Sangmyung University**
+**Department of Software Student @ Sangmyung University**
 
 Interested in **Software · AI · XR · Automation**
 
@@ -76,7 +76,7 @@ Interested in **Software · AI · XR · Automation**
 
 ## Contact
 
-[GitHub](https://github.com/khyun-0123)
+[GitHub](https://github.com/khyun-0123) [Email](jhkim8669@naver.com)
 <br>
 
 ## Card
