@@ -64,7 +64,7 @@ Interested in **Software · AI · XR · LLMs · Local AI · Automation**
 ## 📜 Certifications & Learning
 
 - **Google AI Fundamentals** — Google · Coursera `2026.07`
-  - [Verify Credential](https://coursera.org/verify/HUL7DG5SF74L) · [Certificate](./google-ai-fundamentals.png)
+  - [Verify Credential](https://coursera.org/verify/HUL7DG5SF74L) · [Certificate](./etc/google-ai-fundamentals.png)
 
 ---
 
