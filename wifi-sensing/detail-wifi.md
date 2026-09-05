@@ -3,6 +3,8 @@
 > **ESP32와 Wi-Fi CSI를 활용해 저비용 낙상 감지의 가능성과 한계를 검증하고,
 > 이를 안전 모니터링 창업 아이디어로 확장한 프로젝트**
 
+[▶ Project Video](https://youtu.be/SbuymPcJXyY?si=OuZVVarYVgGhGvIr)
+
 카메라나 웨어러블 없이도 Wi-Fi 신호 변화를 이용해
 사람의 움직임과 낙상 상황을 감지할 수 있는지 직접 실험한 프로젝트입니다.
 
@@ -77,7 +79,7 @@ ESP32-S3 + 공유기 + 노트북 + CSI Monitor가 함께 나온 실제 실험 �
 파일명 추천: csi-environment.jpg
 -->
 
-<p align="center">
+<p align="left">
   <img src="./csi-environment.png" width="75%">
 </p>
 
@@ -192,7 +194,7 @@ empty / walk / fall 실험 및 CSI 데이터 분석 그래프 영역
 파일명 추천: csi-analysis.png
 -->
 
-<p align="center">
+<p align="left">
   <img src="./csi-analysis.png" width="75%">
 </p>
 
@@ -232,11 +234,9 @@ Wi-Fi CSI만으로 모든 사고를 판단하기보다
 파일명 추천: hybrid-system.png
 -->
 
-<p align="center">
+<p align="left">
   <img src="./hybrid-system.png" width="80%">
 </p>
-
-[▶ 모두의 창업 소개 영상](https://youtu.be/SbuymPcJXyY?si=OuZVVarYVgGhGvIr)
 
 ---
 
