@@ -61,6 +61,13 @@ Interested in **Software · AI · XR · LLMs · Local AI · Automation**
 
 ---
 
+## 📜 Certifications & Learning
+
+- **Google AI Fundamentals** — Google · Coursera `2026.07`
+  - [Verify Credential](https://coursera.org/verify/HUL7DG5SF74L) · [Certificate](./google-ai-fundamentals.png)
+
+---
+
 ## 🛠 Skills
 
 **Languages**  
@@ -75,11 +82,11 @@ Interested in **Software · AI · XR · LLMs · Local AI · Automation**
 ---
 
 
-## Contact
+## 🔗 Contact
 
 [GitHub](https://github.com/khyun-0123) · [Email](mailto:jhkim8669@naver.com)
 <br>
 
-## Card
+## 📊 Coding Profile
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhkim8669)](https://solved.ac/jhkim8669)
 &nbsp;
