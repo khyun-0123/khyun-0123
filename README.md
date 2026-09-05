@@ -21,6 +21,7 @@ Interested in **Software · AI · XR · LLMs · Local AI · Automation**
 
 | Project | Period | Description | Link |
 | --- | --- | --- | --- |
+| **Wi-Fi Sensing Fall Detection** | 2026 | ESP32 기반 Wi-Fi CSI 낙상 감지 가능성과 한계를 검증한 실험형 프로젝트 | [Details](https://github.com/khyun-0123/khyun-0123/blob/main/wifi-sensing/detail-wifi.md) |
 | **Assignment Calendar** | 2023 | LMS 과제와 Google Calendar를 연동한 일정 자동화 도구 | [GitHub](https://github.com/khyun-0123/sangmyung_todo_calender) |
 | **Tomato Market** | 2023 | 디지털 격차 완화를 위한 농수산물 거래 Web & Android 서비스 | [GitHub](https://github.com/khyun-0123/nongga-mart-project) |
 | **Campus Meal Chatbot** | 2023 | 이미지 크롤링과 OCR 기반의 교내 학식 정보 챗봇 | [GitHub](https://github.com/khyun-0123/haksik_alarm) |
