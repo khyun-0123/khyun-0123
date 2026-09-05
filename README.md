@@ -63,7 +63,7 @@ Interested in **Software · AI · XR · LLMs · Local AI · Automation**
 ## 🛠 Skills
 
 **Languages**  
-`Python` `C++` `Swift` `JavaScript` `java`
+`Python` `C++` `Swift` `JavaScript` `Java`
 
 **Frameworks & Tools**  
 `Unity` `Django` `Flask` `Git` `GitHub`
