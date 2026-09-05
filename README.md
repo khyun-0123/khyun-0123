@@ -2,7 +2,7 @@
 
 **Department of Software Student @ Sangmyung University**
 
-Interested in **Software · AI · XR · LLM · Local AI · Automation** 
+Interested in **Software · AI · XR · LLMs · Local AI · Automation** 
 
 ---
 
