@@ -8,7 +8,7 @@ DateOne은 커플이 데이트 과정에서 발생한 지출을 함께 기록하
 단순한 개인 가계부와 달리 하나의 지출 기록 안에
 **누가 결제했는지 함께 관리하고, 두 사람의 소비를 비교할 수 있는 구조**를 중심으로 개발했습니다.
 
-<p align="center">
+<p align="left">
   <img src="./dateone-icon.jpg" width="42%">
 </p>
 
@@ -29,7 +29,7 @@ DateOne은 커플이 데이트 과정에서 발생한 지출을 함께 기록하
 
 으로 이어지는 흐름을 구현했습니다.
 
-<p align="center">
+<p align="left">
   <img src="./home-light.png" width="48%">
   <img src="./home-dark.png" width="48%">
 </p>
@@ -53,7 +53,7 @@ DateOne은 커플이 데이트 과정에서 발생한 지출을 함께 기록하
 두 사람의 지출이 하나의 타임라인에 함께 표시되기 때문에
 누가 어떤 항목을 결제했는지 쉽게 확인할 수 있습니다.
 
-<p align="center">
+<p align="left">
   <img src="./add-expense.png" width="48%">
   <img src="./date-picker.png" width="48%">
 </p>
@@ -74,7 +74,7 @@ DateOne은 커플이 데이트 과정에서 발생한 지출을 함께 기록하
 이를 통해 두 사람의 소비가 어떤 항목에 집중되어 있는지
 한눈에 확인할 수 있도록 구성했습니다.
 
-<p align="center">
+<p align="left">
   <img src="./spending-analysis.png" width="48%">
   <img src="./settlement.png" width="48%">
 </p>
@@ -146,7 +146,7 @@ App Store Connect와 TestFlight를 활용해 베타 테스트를 진행했습니
 버전 업데이트와 빌드를 반복하며 기능을 개선했고,
 `1.1` 버전까지 TestFlight 테스트를 진행했습니다.
 
-<p align="center">
+<p align="left">
   <img src="./appstore-build.png" width="48%">
   <img src="./testflight-beta.png" width="48%">
 </p>
