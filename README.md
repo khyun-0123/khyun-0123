@@ -53,6 +53,12 @@ Interested in **Software · AI · XR · LLMs · Local AI · Automation**
 **Sangmyung University — Department of Software**  
 `2023.03 — Present`
 
+**청년 공공 AX 서포터즈 - 행정안전부 X NIA**  
+`2026.09 — Present`
+
+**AX 글로벌 인재육성 제4기 천안형**  
+`2026.09 — Present`
+
 **LikeLion at Sangmyung University 11th**  
 `2023.03 — 2023.12`
 
