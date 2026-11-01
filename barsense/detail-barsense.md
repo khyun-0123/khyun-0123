@@ -9,7 +9,9 @@ BarSense는 혼자 바벨 운동을 할 때 봉의 기울기를 확인하기 어
 모바일 앱에서 기울기와 반복 횟수를 확인한 뒤 운동 기록으로 저장하는 흐름을 구현했습니다.
 
 <p align="left">
-  <img src="./current-prototype.jpg" width="75%">
+  <img src="./compact-concept.png" width="85%">
+  <br>
+  <sub>BarSense 소형화 제품 구상 · 제작 전 개념 렌더</sub>
 </p>
 
 ---
@@ -41,6 +43,12 @@ BarSense의 기본 사용 흐름은 다음과 같습니다.
 - LCD
 - 스트랩 기반 바벨 부착 구조
 - USB 전원
+
+<p align="left">
+  <img src="./current-prototype.jpg" width="75%">
+  <br>
+  <sub>Arduino Uno와 센서로 제작한 실제 기능 검증 목업</sub>
+</p>
 
 센서에서 측정한 바벨의 Y/Z축 기울기와 누적 반복 횟수를
 Android 앱으로 전송하는 구조입니다.
@@ -159,11 +167,7 @@ ESP32-C3 기반 BLE 구조로 전환하는 방향을 설계했습니다.
 - 바벨 회전을 줄이기 위한 접촉 리브
 - 배터리와 USB-C 충전 구조
 
-<p align="left">
-  <img src="./compact-concept.png" width="75%">
-</p>
-
-위 이미지는 실제 완성품 사진이 아닌 **제작 전 소형화 개념 렌더**입니다.
+상단 대표 이미지는 실제 완성품 사진이 아닌 **제작 전 소형화 개념 렌더**입니다.
 KiCad 파일도 회로와 배선이 완성된 제작용 PCB가 아니라 부품 배치 검토안입니다.
 
 ---
