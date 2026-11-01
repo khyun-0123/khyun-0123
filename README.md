@@ -10,7 +10,7 @@ Interested in **Software · AI · XR · LLMs · Local AI · Automation**
 
 | Project | Period | Description | Link |
 | --- | --- | --- | --- |
-| **BarSense** 🏆| 2026 | 바벨의 움직임 확인과 운동 기록을 돕는 부착형 센서와 모바일 앱 | [Details](https://github.com/khyun-0123/khyun-0123/blob/main/barsense/detail-barsense.md) |
+| **BarSense** 🏆| 2026 | 바벨의 기울기와 반복 횟수를 감지하고 세트·휴식 기록을 관리하는 부착형 센서·모바일 앱 | [Details](https://github.com/khyun-0123/khyun-0123/blob/main/barsense/detail-barsense.md) |
 | **Science Arc VR** | 2026 | 초등학생을 위한 스토리 기반 VR 과학 교육 콘텐츠 | [Details](https://github.com/khyun-0123/khyun-0123/blob/main/science-arc/detail-sciencearc.md) |
 | **Wi-Fi Sensing Fall Detection** | 2026 | ESP32 기반 Wi-Fi CSI 낙상 감지 가능성과 한계를 검증한 실험형 프로젝트 | [Details](https://github.com/khyun-0123/khyun-0123/blob/main/wifi-sensing/detail-wifi.md) |
 | **DateOne** | 2025 | 커플 데이트 비용 정산을 위한 개인 iOS 서비스 | [Details](https://github.com/khyun-0123/khyun-0123/blob/main/date-one/detail-dateone.md) |
